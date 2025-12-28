@@ -1,2 +1,2 @@
 This is FileB
-Modified the fileB
+Modified the file to push to github
